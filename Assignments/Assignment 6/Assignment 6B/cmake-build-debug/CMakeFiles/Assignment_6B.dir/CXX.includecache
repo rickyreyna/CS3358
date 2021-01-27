@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rjr110/Desktop/Assignment 6/Assignment 6B/Assign06P1B.cpp
+llcpInt.h
+C:/Users/rjr110/Desktop/Assignment 6/Assignment 6B/llcpInt.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+
+C:/Users/rjr110/Desktop/Assignment 6/Assignment 6B/llcpInt.h
+iostream
+-
+
