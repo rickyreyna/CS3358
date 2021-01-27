@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rjr110/Desktop/Assignment 7/DPQueue.cpp
+cassert
+-
+iostream
+-
+iomanip
+-
+cmath
+-
+DPQueue.h
+C:/Users/rjr110/Desktop/Assignment 7/DPQueue.h
+
+C:/Users/rjr110/Desktop/Assignment 7/DPQueue.h
+cstdlib
+-
+
