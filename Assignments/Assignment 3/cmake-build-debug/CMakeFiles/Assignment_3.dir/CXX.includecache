@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+U:/Data Structures/Assignment 3/Assignment 3/Assign03Auto.cpp
+iostream
+-
+cstring
+-
+cstdlib
+-
+Sequence.h
+U:/Data Structures/Assignment 3/Assignment 3/Sequence.h
+
+U:/Data Structures/Assignment 3/Assignment 3/Sequence.cpp
+cassert
+-
+Sequence.h
+U:/Data Structures/Assignment 3/Assignment 3/Sequence.h
+iostream
+-
+
+U:/Data Structures/Assignment 3/Assignment 3/Sequence.h
+cstdlib
+-
+
