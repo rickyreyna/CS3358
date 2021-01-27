@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/Assign05P2.cpp
+nodes_LLoLL.h
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/nodes_LLoLL.h
+cstdlib
+-
+
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/cnPtrQueue.cpp
+cnPtrQueue.h
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/cnPtrQueue.h
+cassert
+-
+
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/cnPtrQueue.h
+cstdlib
+-
+stack
+-
+nodes_LLoLL.h
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/nodes_LLoLL.h
+
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/nodes_LLoLL.cpp
+nodes_LLoLL.h
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/nodes_LLoLL.h
+cnPtrQueue.h
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/cnPtrQueue.h
+iostream
+-
+
+U:/Data Structures/Assignment 5/Assignment 5 Part 2/nodes_LLoLL.h
+iostream
+-
+
